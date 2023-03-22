@@ -4,5 +4,5 @@ Primeiro exercício praticando CSS com o display flex e MediaQuery
 [<img src="./tela.gif" alt= "gif da tela do projeto">]
 
 ## Tecnologias usadas:
-- HTML
-- CSS
+- HTML5
+- CSS3
